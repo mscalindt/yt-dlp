@@ -1,4 +1,4 @@
-all: lazy-extractors yt-dlp doc pypi-files
+all: lazy-extractors yt-dlp
 clean: clean-test clean-dist
 clean-all: clean clean-cache
 completions: completion-bash completion-fish completion-zsh
