@@ -1,5 +1,7 @@
 yt-dlp --cookies-from-browser <browser> --format 141 <URL>
 
+yt-dlp --cookies-from-browser firefox --format 141 https://music.youtube.com/watch?v=dQw4w9WgXcQ
+
 
 
 Other stuff
