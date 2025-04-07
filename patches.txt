@@ -1,3 +1,4 @@
+2024.12.23.r6:
 https://github.com/yt-dlp/yt-dlp/commit/9b868518a15599f3d7ef5a1c730dda164c30da9b.patch
 https://github.com/yt-dlp/yt-dlp/commit/b9c979461b244713bf42691a5bc02834e2ba4b2c.patch
 https://github.com/yt-dlp/yt-dlp/commit/a550dfc904a02843a26369ae50dbb7c0febfb30e.patch
