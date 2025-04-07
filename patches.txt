@@ -1,0 +1,6 @@
+https://github.com/yt-dlp/yt-dlp/commit/9b868518a15599f3d7ef5a1c730dda164c30da9b.patch
+https://github.com/yt-dlp/yt-dlp/commit/b9c979461b244713bf42691a5bc02834e2ba4b2c.patch
+https://github.com/yt-dlp/yt-dlp/commit/a550dfc904a02843a26369ae50dbb7c0febfb30e.patch
+https://github.com/yt-dlp/yt-dlp/commit/ecee97b4fa90d51c48f9154c3a6d5a8ffe46cd5c.patch
+https://github.com/yt-dlp/yt-dlp/commit/48be862b32648bff5b3e553e40fca4dcc6e88b28.patch
+https://github.com/yt-dlp/yt-dlp/commit/9a1ec1d36e172d252714cef712a6d091e0a0c4f2.patch
