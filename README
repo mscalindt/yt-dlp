@@ -1,8 +1,9 @@
+DO *NOT* REPORT ISSUES WITH THIS PROJECT UPSTREAM.
+INSTEAD, OPEN AN ISSUE ON https://github.com/mscalindt/yt-dlp
+
 yt-dlp --cookies-from-browser <browser> --format 141 <URL>
 
 yt-dlp --cookies-from-browser firefox --format 141 https://music.youtube.com/watch?v=dQw4w9WgXcQ
-
-
 
 
 
