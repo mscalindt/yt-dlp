@@ -1,3 +1,12 @@
+Deprecated. Use https://github.com/yt-dlp/yt-dlp:
+
+yt-dlp --cookies-from-browser <browser> --extractor-args "youtube:formats=missing_pot" --format 141 https://music.youtube.com/watch?v=dQw4w9WgXcQ
+
+===
+
+
+
+
 DO *NOT* REPORT ISSUES WITH THIS PROJECT UPSTREAM.
 INSTEAD, OPEN AN ISSUE ON https://github.com/mscalindt/yt-dlp
 
